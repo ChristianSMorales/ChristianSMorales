@@ -1,5 +1,5 @@
 # Liberi Academy
 ## Personal Account
 ### Hi there 🤖
-*Computing Science Engeineering Student at [EPN](https://epn.edu.ec/)*
+*Computing Science Engineering Student at [EPN](https://epn.edu.ec/)*
 
